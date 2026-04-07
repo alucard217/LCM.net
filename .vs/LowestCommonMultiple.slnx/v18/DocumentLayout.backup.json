@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\bolte\\source\\repos\\LowestCommonMultiple\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{83617A22-C001-5D30-5CDE-7A3C1DF8D43D}|LowestCommonMultiple.csproj|c:\\users\\bolte\\source\\repos\\lowestcommonmultiple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83617A22-C001-5D30-5CDE-7A3C1DF8D43D}|LowestCommonMultiple.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{83617A22-C001-5D30-5CDE-7A3C1DF8D43D}|LowestCommonMultiple.csproj|c:\\users\\bolte\\source\\repos\\lowestcommonmultiple\\controllers\\lcmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83617A22-C001-5D30-5CDE-7A3C1DF8D43D}|LowestCommonMultiple.csproj|solutionrelative:controllers\\lcmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83617A22-C001-5D30-5CDE-7A3C1DF8D43D}|LowestCommonMultiple.csproj|c:\\users\\bolte\\source\\repos\\lowestcommonmultiple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83617A22-C001-5D30-5CDE-7A3C1DF8D43D}|LowestCommonMultiple.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{83617A22-C001-5D30-5CDE-7A3C1DF8D43D}|LowestCommonMultiple.csproj|c:\\users\\bolte\\source\\repos\\lowestcommonmultiple\\lowestcommonmultiple.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{83617A22-C001-5D30-5CDE-7A3C1DF8D43D}|LowestCommonMultiple.csproj|solutionrelative:lowestcommonmultiple.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{83617A22-C001-5D30-5CDE-7A3C1DF8D43D}|LowestCommonMultiple.csproj|c:\\users\\bolte\\source\\repos\\lowestcommonmultiple\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -26,24 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "LowestCommonMultiple.http",
+              "DocumentMoniker": "C:\\Users\\bolte\\source\\repos\\LowestCommonMultiple\\LowestCommonMultiple.http",
+              "RelativeDocumentMoniker": "LowestCommonMultiple.http",
+              "ToolTip": "C:\\Users\\bolte\\source\\repos\\LowestCommonMultiple\\LowestCommonMultiple.http",
+              "RelativeToolTip": "LowestCommonMultiple.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-04-07T16:31:38.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "LCMController.cs",
               "DocumentMoniker": "C:\\Users\\bolte\\source\\repos\\LowestCommonMultiple\\Controllers\\LCMController.cs",
               "RelativeDocumentMoniker": "Controllers\\LCMController.cs",
               "ToolTip": "C:\\Users\\bolte\\source\\repos\\LowestCommonMultiple\\Controllers\\LCMController.cs",
               "RelativeToolTip": "Controllers\\LCMController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-07T13:20:03.718Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\bolte\\source\\repos\\LowestCommonMultiple\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -51,12 +68,11 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-07T13:18:52.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-07T13:18:52.582Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\bolte\\source\\repos\\LowestCommonMultiple\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -64,18 +80,17 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-07T13:18:46.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-07T13:18:46.46Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\bolte\\source\\repos\\LowestCommonMultiple\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\bolte\\source\\repos\\LowestCommonMultiple\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-07T13:18:09.502Z",
               "EditorCaption": ""
