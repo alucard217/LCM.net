@@ -26,9 +26,9 @@ app.Run();
 
 public class LCMclass
 {
-    public static String LCM(int x, int y)
+    public static string LCM(int x, int y)
     {
-        if (x >= 0 && y >= 0)
+        if (x > 0 && y > 0)
         {
             int i = 1;
             while ((x * i) % y != 0)
