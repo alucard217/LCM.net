@@ -31,17 +31,6 @@ app.MapGet("/boltekovalihan_gmail_com", (string x, string y) =>
     return Results.Text(lcm.ToString());
 });
 
-int GCD(int a, int b)
-{
-    while (b != 0)
-    {
-        int temp = b;
-        b = a % b;
-        a = temp;
-    }
-    return a;
-}
-
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
@@ -52,27 +41,32 @@ app.Run();
 
 public class LCMclass
 {
-    public static string LCM(int x, int y)
+    public static string LCM(string xs, string ys)
 {
+    if (!int.TryParse(xs, out int x) || !int.TryParse(ys, out int y))
+        return "NaN";
+
     if (x < 0 || y < 0)
         return "NaN";
 
     if (x == 0 || y == 0)
         return "NaN";
 
-    int a = x, b = y;
+    int gcd = GCD(x, y);
 
+    long lcm = (long)x * y / gcd;
+
+    return lcm.ToString();
+}
+}
+
+int GCD(int a, int b)
+{
     while (b != 0)
     {
         int temp = b;
         b = a % b;
         a = temp;
     }
-
-    int gcd = a;
-
-    long lcm = (long)x * y / gcd;
-
-    return lcm.ToString();
-}
+    return a;
 }
