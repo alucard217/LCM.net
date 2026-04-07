@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\bolte\\source\\repos\\LowestCommonMultiple\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B1A553B-49E0-45ED-9D9D-510D576B752A}|LowestCommonMultiple.csproj|c:\\users\\bolte\\source\\repos\\lowestcommonmultiple\\controllers\\lcmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B1A553B-49E0-45ED-9D9D-510D576B752A}|LowestCommonMultiple.csproj|solutionrelative:controllers\\lcmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{83617A22-C001-5D30-5CDE-7A3C1DF8D43D}|LowestCommonMultiple.csproj|c:\\users\\bolte\\source\\repos\\lowestcommonmultiple\\controllers\\lcmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83617A22-C001-5D30-5CDE-7A3C1DF8D43D}|LowestCommonMultiple.csproj|solutionrelative:controllers\\lcmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B1A553B-49E0-45ED-9D9D-510D576B752A}|LowestCommonMultiple.csproj|c:\\users\\bolte\\source\\repos\\lowestcommonmultiple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B1A553B-49E0-45ED-9D9D-510D576B752A}|LowestCommonMultiple.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{83617A22-C001-5D30-5CDE-7A3C1DF8D43D}|LowestCommonMultiple.csproj|c:\\users\\bolte\\source\\repos\\lowestcommonmultiple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83617A22-C001-5D30-5CDE-7A3C1DF8D43D}|LowestCommonMultiple.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B1A553B-49E0-45ED-9D9D-510D576B752A}|LowestCommonMultiple.csproj|c:\\users\\bolte\\source\\repos\\lowestcommonmultiple\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0B1A553B-49E0-45ED-9D9D-510D576B752A}|LowestCommonMultiple.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{83617A22-C001-5D30-5CDE-7A3C1DF8D43D}|LowestCommonMultiple.csproj|c:\\users\\bolte\\source\\repos\\lowestcommonmultiple\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{83617A22-C001-5D30-5CDE-7A3C1DF8D43D}|LowestCommonMultiple.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B1A553B-49E0-45ED-9D9D-510D576B752A}|LowestCommonMultiple.csproj|c:\\users\\bolte\\source\\repos\\lowestcommonmultiple\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0B1A553B-49E0-45ED-9D9D-510D576B752A}|LowestCommonMultiple.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{83617A22-C001-5D30-5CDE-7A3C1DF8D43D}|LowestCommonMultiple.csproj|c:\\users\\bolte\\source\\repos\\lowestcommonmultiple\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{83617A22-C001-5D30-5CDE-7A3C1DF8D43D}|LowestCommonMultiple.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,14 +36,14 @@
               "RelativeDocumentMoniker": "Controllers\\LCMController.cs",
               "ToolTip": "C:\\Users\\bolte\\source\\repos\\LowestCommonMultiple\\Controllers\\LCMController.cs",
               "RelativeToolTip": "Controllers\\LCMController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-07T13:20:03.718Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\bolte\\source\\repos\\LowestCommonMultiple\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -56,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\bolte\\source\\repos\\LowestCommonMultiple\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -75,7 +75,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\bolte\\source\\repos\\LowestCommonMultiple\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-07T13:18:09.502Z",
               "EditorCaption": ""

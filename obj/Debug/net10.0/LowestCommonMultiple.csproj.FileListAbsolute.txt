@@ -32,3 +32,7 @@ C:\Users\bolte\source\repos\LowestCommonMultiple\obj\Debug\net10.0\refint\Lowest
 C:\Users\bolte\source\repos\LowestCommonMultiple\obj\Debug\net10.0\LowestCommonMultiple.pdb
 C:\Users\bolte\source\repos\LowestCommonMultiple\obj\Debug\net10.0\LowestCommonMultiple.genruntimeconfig.cache
 C:\Users\bolte\source\repos\LowestCommonMultiple\obj\Debug\net10.0\ref\LowestCommonMultiple.dll
+C:\Users\bolte\source\repos\LowestCommonMultiple\obj\Debug\net10.0\LowestCommonMultiple.sourcelink.json
+C:\Users\bolte\source\repos\LowestCommonMultiple\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bolte\source\repos\LowestCommonMultiple\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bolte\source\repos\LowestCommonMultiple\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
