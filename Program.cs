@@ -9,10 +9,7 @@ app.MapGet("/boltekovalihan_gmail_com", (string x, string y) =>
 
     if (a < 0 || b < 0)
         return Results.Text("NaN");
-
-    if (a == 0 || b == 0)
-        return Results.Text("NaN");
-
+    
     int gcd = GCD(a, b);
 
     long lcm = (long)a * b / gcd;
