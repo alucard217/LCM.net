@@ -2,7 +2,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 var app = builder.Build();
 
-app.MapGet("/boltekovalihan_gmail_com", (int x, int y) =>
+app.MapGet("/boltekovalihan_gmail_com", (string x, string y) =>
 {
     if (!int.TryParse(x, out int a) || !int.TryParse(y, out int b))
         return Results.Text("NaN");
@@ -10,8 +10,10 @@ app.MapGet("/boltekovalihan_gmail_com", (int x, int y) =>
     if (a < 0 || b < 0)
         return Results.Text("NaN");
     if (a == 0 && b == 0)
+        return Results.Text("NaN");
+    if (a == 0 || b == 0)
         return Results.Text("0");
-    
+
     int gcd = GCD(a, b);
 
     long lcm = (long)a * b / gcd;
